@@ -43,60 +43,11 @@ to **binary programs and low-level systems**.
 
 ---
 
-## 🔨 Projects
-
-### `vi0let-dev.github.io`
-
-> 🌸 Personal Blog
-
-My personal technical blog built with **Hexo**, documenting
-learning notes, research, and technical experiments.
-
-[![Blog](https://img.shields.io/badge/Blog-vi0let.dev-8B5CF6?style=flat-square\&logo=hexo)](https://vi0let-dev.github.io/)
-
----
-
-### `dataset_ml`
-
-> 🧠 Machine Learning / Dataset
-
-A personal project for experimenting with **machine learning
-and dataset-related workflows**.
-
----
-
-### `picture`
-
-> 🖼️ Personal Image Repository
-
-A repository for storing and managing personal images and
-resources used across my projects.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,bash,linux,git,github,vscode,docker,ros,opencv,pytorch" />
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img
-height="160"
-src="https://github-stats-extended.vercel.app/api?username=vi0let-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-
-<img
-height="160"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=vi0let-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,docker,ros,opencv" />
 
 </div>
 
