@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="vi0let-dev"/>
+<img src="./assets/banner.png" width="90%" alt="vi0let-dev"/>
 
 <br>
 
